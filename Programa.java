@@ -32,7 +32,7 @@ public class Programa {
       } else if (idade <= 25) {
         mensalidade = 90.0;
       } else if (idade <= 40) {
-        mensalidade = 90.0;
+        mensalidade = 85.0;
       } else if (idade <= 402) {
         mensalidade = 85.0;
       } else {
